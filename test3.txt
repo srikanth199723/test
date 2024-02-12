@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hai how are you
-=======
-hai
->>>>>>> 1ad3968ee424885683456d5b4033de6587dd2e4c
